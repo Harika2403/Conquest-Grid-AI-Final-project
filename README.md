@@ -309,5 +309,5 @@ Students and researchers can use this system to explore game AI, experiment with
 
 12.Team / Contributors
 
-Harika Manchineella
-Karthik Kandimalla
+1.Harika Manchineella
+2.Karthik Kandimalla
